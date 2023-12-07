@@ -1,0 +1,3 @@
+[submodule "misubmodulo"]
+	path = misubmodulo
+	url = https://github.com/AlexisMartinez1913/crud-react-node-mysql.git
